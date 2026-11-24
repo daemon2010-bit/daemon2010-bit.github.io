@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.whynet.app",
+      "sha256_cert_fingerprints": [
+        "CD:3D:9B:8E:82:3B:BB:E3:2B:13:17:B1:7D:FF:CC:15:80:E6:0F:3B:FC:90:61:68:F4:0F:60:7B:73:A1:8A:28"
+      ]
+    }
+  }
+]
